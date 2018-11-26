@@ -1,5 +1,5 @@
 # TimeTrackerUi
-Time Tracker Legacy application for Allianz .
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Steps to run in docker
